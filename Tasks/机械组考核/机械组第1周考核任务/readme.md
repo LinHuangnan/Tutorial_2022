@@ -2,16 +2,18 @@
 
 Author：@LinHuangnan
 
-Revise：
+Revise：@PiCaHor
 
 | 版本 | 说明 |备注|
 | ---- | ---- | ---- |
 | v0.0.0 | 建立文档 |无|
+| v0.0.1 | Revise&更正错别字 |@PiCaHor|
 
 ## 说明
 - 第一周考核需要通过3D打印制作机械臂，可以在淘宝上找厂家进行3D打印，开好发票，通过考核将会提供报销
 - 驱动机械臂运动的舵机等零件也需要在淘宝上购买，开好发票，通过考核将提供报销
 - 第一周的任务成果只需提交SolidWorks设计的文件和一份说明文档，写明设计思路和各个文件的作用
+- 很多东西开放实验室(北实验楼C301)都有，要学会去白嫖
 
 
 ## SolidWorks安装
@@ -20,12 +22,11 @@ Revise：
 
 ## 任务安排
 ### 1、自学任务安排 
-- 自学SolidWorks，参考[B站的SolidWorks教程](https://www.bilibili.com/video/BV1iw411Z7HZ?spm_id_from=333.337.search-card.all.click&vd_source=28eca9a455dd3210d721b4694d3c4aa1)，只需要学到`P21附加课7 转配体阵列&镜像与外观`即可
+- 自学SolidWorks，参考[B站的SolidWorks教程](https://www.bilibili.com/video/BV1iw411Z7HZ?spm_id_from=333.337.search-card.all.click&vd_source=28eca9a455dd3210d721b4694d3c4aa1)，只需要学到`P21附加课7 装配体阵列&镜像与外观`即可
 - 刷完教程之后，可以跟着B站上的其他画一些有趣的东西，比如四旋翼的建模等等，来巩固刚刚学会的Solidworks基本操作技巧
 
 ### 2、使用SolidWorks设计4自由度机械臂
 
-#### 方案一
 
 我们给大家提供了一个参考示例，大家可以根据下面提供的参考示例来`复现`或者`设计`自己的4自由度机械臂，本周考核的目的在于使大家尽快熟悉SolidWorks的操作，因此无论是复现我们下面给出的示例，还是自己设计一个新的4自由度机械臂均可
 
